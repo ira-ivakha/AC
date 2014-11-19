@@ -1,0 +1,27 @@
+FontName (AmericanTypewriter-BoldCond)
+FullName (ITC American Typewriter Bold Condensed)
+AppleName (AmericanTypewriter BoldCn)
+AppleFONDID 8948
+FamilyName (ITC American Typewriter)
+version (001.002)
+isFixedPitch false
+CharacterSet (isoadobe)
+Encoding (StandardEncoding)
+ItalicAngle 0
+CapHeight 676
+UnderlinePosition -100
+UnderlineThickness 50
+StemWidth 132
+Serif true
+Pi false
+SuperiorBaseline -216
+MSMenuName (AmericanTypewriter Cn)
+VPMenuName (AmericanTypewriter Cn)
+WORDMenuName (AmericanTypewriterCn)
+VPTypefaceID 1046
+VPStyle (B)
+PCFileNamePrefix (ATBC_)
+PCLTypefaceID 20551
+PCLStrokeWeight 3
+PCLStyle 4
+

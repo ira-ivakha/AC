@@ -1,0 +1,16 @@
+development:
+  adapter:  postgresql
+  encoding: unicode
+  database: training_development
+  pool:     5
+  username: postgres
+  password: '123'
+
+test:
+  adapter:  postgresql
+  encoding: unicode
+  database: training_test
+  pool:     5
+  username: postgres
+  password: '123'
+

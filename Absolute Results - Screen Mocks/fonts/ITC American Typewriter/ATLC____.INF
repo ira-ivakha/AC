@@ -1,0 +1,26 @@
+FontName (AmericanTypewriter-LightCond)
+FullName (ITC American Typewriter Light Condensed)
+AppleName (AmericanTypewriter LightCn)
+AppleFONDID 8954
+FamilyName (ITC American Typewriter)
+version (001.002)
+isFixedPitch false
+CharacterSet (isoadobe)
+Encoding (StandardEncoding)
+ItalicAngle 0
+CapHeight 676
+UnderlinePosition -100
+UnderlineThickness 50
+StemWidth 28
+Serif true
+Pi false
+MSMenuName (AmericanTypewriter LightCn)
+VPMenuName (AmericanTypewriter LightCn)
+WORDMenuName (AmericanTypewriterLightCn)
+VPTypefaceID 1043
+VPStyle (N)
+PCFileNamePrefix (ATLC_)
+PCLTypefaceID 20551
+PCLStrokeWeight -3
+PCLStyle 4
+

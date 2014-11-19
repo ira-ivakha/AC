@@ -1,0 +1,26 @@
+FontName (AmericanTypewriter-MediumA)
+FullName (ITC American Typewriter Medium Alternate)
+AppleName (AmericanTypewriter MediumA)
+AppleFONDID 8952
+FamilyName (ITC American Typewriter)
+version (001.003)
+isFixedPitch false
+CharacterSet (isoadobe)
+Encoding (StandardEncoding)
+ItalicAngle 0
+CapHeight 675
+UnderlinePosition -100
+UnderlineThickness 50
+StemWidth 77
+Serif true
+Pi false
+MSMenuName (AmericanTypewriter MediumA)
+VPMenuName (AmericanTypewriter MediumA)
+WORDMenuName (AmericanTypewriterMediumA)
+VPTypefaceID 1045
+VPStyle (N)
+PCFileNamePrefix (ATMA_)
+PCLTypefaceID 21063
+PCLStrokeWeight 0
+PCLStyle 0
+

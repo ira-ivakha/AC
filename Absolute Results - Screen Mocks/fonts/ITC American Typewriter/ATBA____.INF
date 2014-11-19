@@ -1,0 +1,26 @@
+FontName (AmericanTypewriter-BoldA)
+FullName (ITC American Typewriter Bold Alternate)
+AppleName (AmericanTypewriter BoldA)
+AppleFONDID 8949
+FamilyName (ITC American Typewriter)
+version (001.003)
+isFixedPitch false
+CharacterSet (isoadobe)
+Encoding (StandardEncoding)
+ItalicAngle 0
+CapHeight 676
+UnderlinePosition -100
+UnderlineThickness 50
+StemWidth 157
+Serif true
+Pi false
+MSMenuName (AmericanTypewriter MediumA)
+VPMenuName (AmericanTypewriter MediumA)
+WORDMenuName (AmericanTypewriterMediumA)
+VPTypefaceID 1045
+VPStyle (B)
+PCFileNamePrefix (ATBA_)
+PCLTypefaceID 21063
+PCLStrokeWeight 3
+PCLStyle 0
+

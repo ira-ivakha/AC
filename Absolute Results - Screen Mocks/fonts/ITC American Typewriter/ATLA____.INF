@@ -1,0 +1,27 @@
+FontName (AmericanTypewriter-LightA)
+FullName (ITC American Typewriter Light Alternate)
+AppleName (AmericanTypewriter LightA)
+AppleFONDID 8955
+FamilyName (ITC American Typewriter)
+version (001.001)
+isFixedPitch false
+CharacterSet (isoadobe)
+Encoding (StandardEncoding)
+ItalicAngle 0
+CapHeight 676
+UnderlinePosition -100
+UnderlineThickness 50
+StemWidth 27
+Serif true
+Pi false
+SuperiorBaseline 265
+MSMenuName (AmericanTypewriter LightA)
+VPMenuName (AmericanTypewriter LightA)
+WORDMenuName (AmericanTypewriterLightA)
+VPTypefaceID 1042
+VPStyle (N)
+PCFileNamePrefix (ATLA_)
+PCLTypefaceID 21063
+PCLStrokeWeight -3
+PCLStyle 0
+
